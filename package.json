@@ -1,0 +1,17 @@
+{
+  "name": "table_example",
+  "version": "1.0.0",
+  "description": "learning csv to json api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "author": "Aman Singh Bhogal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1"
+  }
+}
